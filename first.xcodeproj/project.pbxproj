@@ -25,7 +25,6 @@
 		3C16392D18CEF33700448D30 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C16390118CEF33700448D30 /* Foundation.framework */; };
 		3C16392E18CEF33700448D30 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C16390518CEF33700448D30 /* UIKit.framework */; };
 		3C16393618CEF33700448D30 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3C16393418CEF33700448D30 /* InfoPlist.strings */; };
-		3C16393818CEF33700448D30 /* firstTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C16393718CEF33700448D30 /* firstTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -279,7 +278,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C16393818CEF33700448D30 /* firstTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -486,6 +484,7 @@
 				3C16393D18CEF33700448D30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C16393E18CEF33700448D30 /* Build configuration list for PBXNativeTarget "firstTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +493,7 @@
 				3C16394018CEF33700448D30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
